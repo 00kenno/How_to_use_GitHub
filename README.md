@@ -10,21 +10,21 @@
 ## 手順
 |1|右上の緑の「\<\> Code」をクリックする．|  
 |---|:---|
-||<img src="images/Code_Button.png">|
+||<img src="images/code_button.png">|
 
 |2|「Download ZIP」をクリックする．|
 |---|:---|
-||<img src="images/Download_ZIP_Button.png">|
+||<img src="images/download_zip_button.png">|
 
 |3|任意のフォルダーで展開する．|
 |---|:---|
-||作業をする展開先のフォルダーをあらかじめ決めておくと良いでしょう．<br><img src="images/Unzipping.png" width="500px"><br><img src="images/Unzipped.png" width="500px">|
+||作業をする展開先のフォルダーをあらかじめ決めておくと良いでしょう．<br><img src="images/unzipping.png" width="500px"><br><img src="images/unzipped.png" width="500px">|
 
 |4|作業をする．|
 |---|:---|
-||ここでは，すべてのファイルに何かしらの文字を追記しましょう．|
+||すべてのファイルに何かしらの文字を追記しましょう．ここでは「Modified!」と追記しました．<br><img src="images/modifing_txt_file">|
 
 |5|GitHubのリポジトリにアップロードする．|
 |---|:---|
-||右上の「Upload files」からアップロードできます．ただし，アップロードする場所を状況に応じて適切に選択してください．<br><br>**あるファイルを1つだけ編集した場合**<br>画像を参考に「a.txt」をアップロードしましょう．<br><br>**特定のフォルダー内にある1つのファイルを編集した場合**<br>画像を参考に，もともと「b.txt」があった場所（dir1）に移動してから「b.txt」をアップロードしましょう．<br><br>**特定のフォルダー内にある複数のファイルを編集した場合**<br>画像を参考に「c.txt」「d.txt」が入っているフォルダー（dir2）ごとドラッグ＆ドロップして，アップロードしましょう．|
+||右上の「Upload files」からアップロードできます．ただし，アップロードする場所を状況に応じて適切に選択してください．<br><br>**あるファイルを1つだけ編集した場合**<br>画像を参考に「a.txt」をアップロードしましょう．<br><img src="images/uploading_one_file"><br><br>**特定のフォルダー内にある1つのファイルを編集した場合**<br>画像を参考に，もともと「b.txt」があった場所（dir1）に移動してから「b.txt」をアップロードしましょう．<br><img src="images/cd_to_dir1"><img src="images/uploading_one_file_in_dir1"><br><br>**特定のフォルダー内にある複数のファイルを編集した場合**<br>画像を参考に「c.txt」「d.txt」が入っているフォルダー（dir2）ごとドラッグ＆ドロップして，アップロードしましょう．<br><img src="images/adding_some_files">|
 
