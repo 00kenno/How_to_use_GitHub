@@ -18,7 +18,7 @@
 
 |3|任意のフォルダーで展開する．|
 |---|:---|
-||作業をする展開先のフォルダーをあらかじめ決めておくと良いでしょう．<br><br><img src="images/unzipping.png" width="500px"><br><img src="images/unzipped.png" width="500px">|
+||作業をする展開先のフォルダーをあらかじめ決めておくと良いでしょう．<br><br><img src="images/unzipping.png" width="500px"><br><br><img src="images/unzipped.png" width="500px">|
 
 |4|作業をする．|
 |---|:---|
