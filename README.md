@@ -22,7 +22,7 @@
 
 |4|作業をする．|
 |---|:---|
-||すべてのファイルに何かしらの文字を追記しましょう．ここでは「Modified!」と追記しました．<br><img src="images/modifing_txt_file">|
+||すべてのファイルに何かしらの文字を追記しましょう．ここでは「Modified!」と追記しました．<br><img src="images/modifing_txt_file.png">|
 
 |5|GitHubのリポジトリにアップロードする．|
 |---|:---|
