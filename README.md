@@ -26,5 +26,5 @@
 
 |5|GitHubのリポジトリにアップロードする．|
 |---|:---|
-||右上の「Upload files」からアップロードできます．ただし，アップロードする場所を状況に応じて適切に選択してください．<br><br>**あるファイルを1つだけ編集した場合**<br>画像を参考に「a.txt」をアップロードしましょう．<br><img src="images/uploading_one_file.png" width="500px"><img src="images/adding_one_file.png" height="200px"><br><br>**特定のフォルダー内にある1つのファイルを編集した場合**<br>画像を参考に，もともと「b.txt」があった場所（dir1）に移動してから「b.txt」をアップロードしましょう．<br><img src="images/cd_to_dir1.png" height="300px"><img src="images/uploading_one_file_in_dir1.png" height="300px"><br><br>**特定のフォルダー内にある複数のファイルを編集した場合**<br>画像を参考に「c.txt」「d.txt」が入っているフォルダー（dir2）ごとドラッグ＆ドロップして，アップロードしましょう．<br><img src="images/adding_folder.png" height="300px">|
+||右上の「Upload files」からアップロードできます．ただし，アップロードする場所を状況に応じて適切に選択してください．<br><br>**あるファイルを1つだけ編集した場合**<br>画像を参考に「a.txt」をアップロードしましょう．<br><img src="images/uploading_one_file.png" width="500px"><img src="images/adding_one_file.png" width="500px"><br><br>**特定のフォルダー内にある1つのファイルを編集した場合**<br>画像を参考に，もともと「b.txt」があった場所（dir1）に移動してから「b.txt」をアップロードしましょう．<br><img src="images/cd_to_dir1.png" width="500px"><img src="images/uploading_one_file_in_dir1.png" width="500px"><br><br>**特定のフォルダー内にある複数のファイルを編集した場合**<br>画像を参考に「c.txt」「d.txt」が入っているフォルダー（dir2）ごとドラッグ＆ドロップして，アップロードしましょう．<br><img src="images/adding_folder.png" width="500px">|
 
