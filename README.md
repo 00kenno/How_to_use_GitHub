@@ -10,8 +10,8 @@
 ## 手順
 |||
 |---|---|
-|1|**右上の緑の「\<\> Code」をクリックする．**|
-|2|**「Download ZIP」をクリックする．**|
+|1|**右上の緑の「\<\> Code」をクリックする．**<img src="images/Code_Button.png">|
+|2|**「Download ZIP」をクリックする．**<img src="images/Download_ZIP_Button.png">|
 |3|**任意のフォルダーで展開し，そこで作業をする．**<br>作業をする展開先のフォルダーをあらかじめ決めておくと良いでしょう．<br><img src="images/Unzipping.png" width="500px"><br><img src="images/Unzipped.png" width="500px">|
 |4|**GitHubのリポジトリにアップロードする．**<br>様々な方法があります．状況に応じて適切に選択してください．|
 
