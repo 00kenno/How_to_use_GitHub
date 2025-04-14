@@ -30,10 +30,20 @@
 
 |6|新しいブランチにコミットする．|
 |---|:---|
-||ラジオボタンで下のオプション「」を選択する．<br><br><img src="images/push_to_new_branch.png" width="500px">|
+||ラジオボタンで下のオプション「Create a **new branch** ...」を選択します．ブランチ名は自動入力されたものをそのまま使用するようにしましょう．（{UserName}-patch-1など）<br><br><img src="images/create_a_new_branch.png" width="500px">|
 
 |7|Pull Requestを作成する．|
 |---|:---|
-||特に何も手を加えずに続行する．<br><br><img src="images/creating_pull_request.png" width="500px"><br><br><img src="images/created_pull_request.png" width="500px">|
+||自身の変更に対する承認を要求できます．特に何も手を加えずに続行しましょう．<br><br><img src="images/creating_pull_request.png" width="500px"><br><br><img src="images/created_pull_request.png" width="500px">|
 
+###以降はMainブランチに変更を与える操作です．基本的にはそのリポジトリを管理するユーザー自身が操作してください．
 
+|8|Pull RequestをMergeする．|
+|---|:---|
+||変更を承認する場合は，Pull RequestをMergeして変更を適用しましょう．「No conflicts」とある場合は問題なくMergeできます．<br><br><img src="images/merging_pull_request.png" width="500px"><br><br><img src="images/merged_pull_request.png" width="500px">|
+
+|9|不要なブランチを消す．|
+|---|:---|
+||Mergeが完了し，不要になったブランチは消すことができます．「Delete branch」をクリックしましょう．「Revert」や「Restore branch」で復元することができます．<br><br><img src="images/closed_pull_request.png" width="500px">|
+
+**以上です！お疲れさまでした！**
