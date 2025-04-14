@@ -30,10 +30,10 @@
 
 |6|新しいブランチにコミットする．|
 |---|:---|
-||ラジオボタンで下のオプション「」を選択する．|
+||ラジオボタンで下のオプション「」を選択する．<br><br><img src="images/push_to_new_branch.png" width="500px">|
 
 |7|Pull Requestを作成する．|
 |---|:---|
-||特に何も手を加えずに続行する．|
+||特に何も手を加えずに続行する．<br><br><img src="images/creating_pull_request.png" width="500px"><br><br><img src="images/created_pull_request.png" width="500px">|
 
 
