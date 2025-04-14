@@ -36,7 +36,8 @@
 |---|:---|
 ||自身の変更に対する承認を要求できます．特に何も手を加えずに続行しましょう．<br><br><img src="images/creating_pull_request.png" width="500px"><br><br><img src="images/created_pull_request.png" width="500px">|
 
-### 以降はMainブランチに変更を与える操作です．基本的にはそのリポジトリを管理するユーザー自身が操作してください．
+### 以降はMainブランチに変更を与える操作です．  
+基本的にはそのリポジトリを管理するユーザー自身が操作してください．
 
 |8|Pull RequestをMergeする．|
 |---|:---|
